@@ -2,7 +2,7 @@
 
 A fully responsive personal portfolio website built with pure **HTML, CSS, and JavaScript** — no frameworks, no dependencies.
 
-🔗 **Live Site:** [buddadileep.lovable.app](https://buddadileep.lovable.app)
+🔗 **Live Site:** [buddadileep.vercel.app](https://buddadileep.vercel.app)
 
 ---
 
